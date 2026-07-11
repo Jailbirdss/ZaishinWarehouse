@@ -1,0 +1,2 @@
+# Ignore environment variables configuration file to protect API keys & credentials
+.env
