@@ -856,7 +856,7 @@ INSERT INTO `users` (`id`, `name`, `username`, `password`, `role`, `avatar`, `is
 (3, 'Citra Dewi', 'citra', '$2y$10$sHfe3c7UiIX5UiX6dTGRyOxTyQ6SvFuO5p0ATzAjRkwarGRFxk8qS', 'divisi_penjualan', 'CD', 1, '2026-06-05 13:53:40'),
 (4, 'Dani Prasetyo', 'dani', '$2y$10$8cRHhSI2BWmhhxiIkAwG4OMdCVPF.JOnSQPdyiNJ1BaNSuij8D9ya', 'divisi_pembelian', 'DP', 1, '2026-06-05 13:53:40'),
 (5, 'Eko Manajer', 'eko', '$2y$10$wyKVkmisfhCpIOgPCgYpoOf2U6TGqOVjzNmY2cNmcZXSP3F/eN0ze', 'manajemen', 'EM', 1, '2026-06-05 13:53:40'),
-(6, 'Fikri Anwar', 'fikri', '$2y$10$1S3Fvsc.z4LaecFJe./ksOHc75TsWClGE22QsT8r0yQuVEDBhamOe', 'admin_gudang', 'FA', 1, '2026-06-05 13:53:40');
+(6, 'Fandy Ahmad', 'fandy', '$2y$10$d6qUZGmAGRJeXp1W/kEZjeoezJEwR.iyBJkr0J4ykp7DDxmof14/e', 'admin_gudang', 'FA', 1, '2026-06-05 13:53:40');
 
 -- --------------------------------------------------------
 

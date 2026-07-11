@@ -79,6 +79,6 @@ Seluruh akun demo bawaan menggunakan password yang sama dengan username masing-m
    - Nama: Eko Manajer
 
 6. **Admin Gudang (Alternatif)**
-   - Username: `fikri`
-   - Password: `fikri`
-   - Nama: Fikri Anwar
+   - Username: `fandy`
+   - Password: `fandy`
+   - Nama: Fandy Ahmad
