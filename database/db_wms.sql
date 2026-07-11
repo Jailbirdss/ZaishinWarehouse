@@ -851,12 +851,12 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `username`, `password`, `role`, `avatar`, `is_active`, `created_at`) VALUES
-(1, 'Etmin Datang', 'admin', '$2y$10$UlCBUTu2c7FnQnxwRNPaHuOX2WgHzUxXrxlhfn14NqtPLpkJYd3G2', 'admin_gudang', 'ED', 1, '2026-06-05 13:53:40'),
+(1, 'Etmin Datang', 'admin', '$2y$10$hIal8RJvqFEjeptzob0LZ.IEaMYBvpq7sTf/U4SadGIFYqMsQqnxq', 'admin_gudang', 'ED', 1, '2026-06-05 13:53:40'),
 (2, 'Budi Santoso', 'budi', '$2y$10$0XggsfDVYcehOqmkQbE./uMLoGQytVbpSeW7lfwMpEq2VtUbQHWz.', 'petugas_gudang', 'BS', 1, '2026-06-05 13:53:40'),
 (3, 'Citra Dewi', 'citra', '$2y$10$sHfe3c7UiIX5UiX6dTGRyOxTyQ6SvFuO5p0ATzAjRkwarGRFxk8qS', 'divisi_penjualan', 'CD', 1, '2026-06-05 13:53:40'),
 (4, 'Dani Prasetyo', 'dani', '$2y$10$8cRHhSI2BWmhhxiIkAwG4OMdCVPF.JOnSQPdyiNJ1BaNSuij8D9ya', 'divisi_pembelian', 'DP', 1, '2026-06-05 13:53:40'),
 (5, 'Eko Manajer', 'eko', '$2y$10$wyKVkmisfhCpIOgPCgYpoOf2U6TGqOVjzNmY2cNmcZXSP3F/eN0ze', 'manajemen', 'EM', 1, '2026-06-05 13:53:40'),
-(6, 'Fikri Anwar', 'fikri', '$2y$10$UlCBUTu2c7FnQnxwRNPaHuOX2WgHzUxXrxlhfn14NqtPLpkJYd3G2', 'admin_gudang', 'FA', 1, '2026-06-05 13:53:40');
+(6, 'Fikri Anwar', 'fikri', '$2y$10$1S3Fvsc.z4LaecFJe./ksOHc75TsWClGE22QsT8r0yQuVEDBhamOe', 'admin_gudang', 'FA', 1, '2026-06-05 13:53:40');
 
 -- --------------------------------------------------------
 

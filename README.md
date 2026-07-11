@@ -50,9 +50,35 @@ http://localhost/wms-psi
 ```
 
 ## Akun Demo Default
-- **Admin Gudang**  
-  Username/Email: `admin`  
-  Password: `admin`
-- **Petugas Gudang**  
-  Username/Email: `staff`  
-  Password: `staff`
+
+Seluruh akun demo bawaan menggunakan password yang sama dengan username masing-masing:
+
+1. **Admin Gudang (Utama)**
+   - Username: `admin`
+   - Password: `admin`
+   - Nama: Etmin Datang
+
+2. **Petugas Gudang**
+   - Username: `budi`
+   - Password: `budi`
+   - Nama: Budi Santoso
+
+3. **Divisi Penjualan**
+   - Username: `citra`
+   - Password: `citra`
+   - Nama: Citra Dewi
+
+4. **Divisi Pembelian**
+   - Username: `dani`
+   - Password: `dani`
+   - Nama: Dani Prasetyo
+
+5. **Manajemen**
+   - Username: `eko`
+   - Password: `eko`
+   - Nama: Eko Manajer
+
+6. **Admin Gudang (Alternatif)**
+   - Username: `fikri`
+   - Password: `fikri`
+   - Nama: Fikri Anwar
