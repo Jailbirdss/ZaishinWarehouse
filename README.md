@@ -51,34 +51,13 @@ http://localhost/wms-psi
 
 ## Akun Demo Default
 
-Seluruh akun demo bawaan menggunakan password yang sama dengan username masing-masing:
+Berikut adalah daftar akun demo bawaan sistem. Seluruh akun menggunakan kata sandi yang sama dengan username masing-masing:
 
-1. **Admin Gudang (Utama)**
-   - Username: `admin`
-   - Password: `admin`
-   - Nama: Etmin Datang
-
-2. **Petugas Gudang**
-   - Username: `budi`
-   - Password: `budi`
-   - Nama: Budi Santoso
-
-3. **Divisi Penjualan**
-   - Username: `citra`
-   - Password: `citra`
-   - Nama: Citra Dewi
-
-4. **Divisi Pembelian**
-   - Username: `dani`
-   - Password: `dani`
-   - Nama: Dani Prasetyo
-
-5. **Manajemen**
-   - Username: `eko`
-   - Password: `eko`
-   - Nama: Eko Manajer
-
-6. **Admin Gudang (Alternatif)**
-   - Username: `fandy`
-   - Password: `fandy`
-   - Nama: Fandy Ahmad
+| No | Nama | Username | Kata Sandi | Peran (Role) | Hak Akses Utama |
+| :---: | :--- | :---: | :---: | :--- | :--- |
+| 1 | Etmin Datang | `admin` | `admin` | Admin Gudang | Manajemen User, Kelola Peran, Peta Gudang, Master Barang |
+| 2 | Budi Santoso | `budi` | `budi` | Petugas Gudang | Penerimaan Barang, Pengeluaran Barang, Stock Opname |
+| 3 | Citra Dewi | `citra` | `citra` | Divisi Penjualan | Manajemen Sales Order (SO), Lihat Stok |
+| 4 | Dani Prasetyo | `dani` | `dani` | Divisi Pembelian | Ajukan Permintaan Restock (PO), Lihat Stok |
+| 5 | Eko Manajer | `eko` | `eko` | Manajemen | Laporan, Persetujuan Restock, Monitoring Opname |
+| 6 | Fandy Ahmad | `fandy` | `fandy` | Admin Gudang (Alt) | Manajemen User, Kelola Peran, Peta Gudang, Master Barang |
